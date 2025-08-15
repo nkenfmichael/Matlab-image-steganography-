@@ -1,0 +1,20 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+        HOW TO RUN NKENFACK STEGO-SOFTWARE:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+This software was built and tested with Matlab 8.1 (R2013a), 64 bits
+
+
+To run this app, you can follow one of the options below:
+
+1- If a version of Matlab is installed:
+  - Open Matlab and choose this folder as current working folder
+  - Type "Select" on the command windows ("Select" with capital S)
+  - Help on how to use this app can be found on the menu bar of this app
+  - Enjoy
+
+2- If no version of Matlab is installed:
+  - Install MCRInstaller.exe provided in this folder
+  - Install the setup provided by the author (StegoSoftSetup.exe)
+  - Help on how to use this app can be found on the menu bar of this app
+  - Enjoy
